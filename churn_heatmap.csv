@@ -1,0 +1,13 @@
+Contract,cohort,churn_rate
+Month-to-month,0-12 months,51.35
+Month-to-month,13-24 months,37.72
+Month-to-month,25-48 months,32.92
+Month-to-month,49-72 months,26.02
+One year,0-12 months,10.57
+One year,13-24 months,8.12
+One year,25-48 months,10.62
+One year,49-72 months,12.93
+Two year,0-12 months,0.0
+Two year,13-24 months,0.0
+Two year,25-48 months,2.19
+Two year,49-72 months,3.33

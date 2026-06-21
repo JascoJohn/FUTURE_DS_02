@@ -1,0 +1,11 @@
+segment_value,total_customers,total_monthly_revenue,churn_rate,monthly_revenue_at_risk,segment_type
+Month-to-month,3875,257294.15,0.43,110636.48,Contract
+One year,1473,95816.6,0.11,10539.83,Contract
+Two year,1695,103005.85,0.03,3090.18,Contract
+0-12 months,2175,122174.15,0.48,58643.59,Tenure Group
+13-24 months,1024,62829.85,0.29,18220.66,Tenure Group
+25-48 months,1594,105093.3,0.2,21018.66,Tenure Group
+49-72 months,2239,165563.7,0.1,16556.37,Tenure Group
+DSL,2421,140665.35,0.19,26726.42,Internet Service
+Fiber optic,3096,283284.4,0.42,118979.45,Internet Service
+No,1526,32166.85,0.07,2251.68,Internet Service

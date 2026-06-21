@@ -1,0 +1,4 @@
+InternetService,total_customers,avg_monthly_charge,total_monthly_revenue,churn_rate,monthly_revenue_at_risk
+DSL,2421,58.1,140665.35,0.19,26726.42
+Fiber optic,3096,91.5,283284.4,0.42,118979.45
+No,1526,21.08,32166.85,0.07,2251.68
